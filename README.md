@@ -11,7 +11,8 @@
 Hola, soy **codetronp**
 
 [codetronp@github ~] cat bio.txt
-Soy un desarrollador de aplicaciones web apasionado por el desarrollo web, la inteligencia artificial, la ciberseguridad. Me encanta aprender y construir cosas nuevas.
+Soy un desarrollador de aplicaciones web apasionado por el desarrollo web, la inteligencia artificial y la ciberseguridad.
+Me encanta aprender y construir cosas nuevas.
 Actualmente, estoy explorando Python.
 
 [codetronp@github ~]$ ls -la dev/skills/
