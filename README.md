@@ -47,7 +47,6 @@ Herramientas & Plataformas:
 * Linux, Bash
 * SQL, NoSQL Databases
 
-[codetronp@github ~]$ github_stats --user [codetronp] --theme terminal
 
 [codetronp@github ~]$ exit
 Logging out...
