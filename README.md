@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/half-stack-dev/half-stack-dev/main/assets/terminal.gif](https://ar.pinterest.com/pin/705305991635204847/)" width="600" alt="Terminal Animation">
+  <img src="https://torveclabs.com/images/hero.gif" width="600" alt="Terminal Animation">
 </p>
 
 ```bash
