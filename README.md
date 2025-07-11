@@ -17,25 +17,25 @@ Actualmente, estoy explorando Python.
 
 [codetronp@github ~]$ ls -la dev/skills/
 total 16
-drwxr-xr-x  2 andrew andrew 4096 Jul 10 14:00 .
-drwxr-xr-x 10 andrew andrew 4096 Jul 10 14:00 ..
--rw-r--r--  1 andrew andrew  512 Jul 10 14:00 languages.txt
--rw-r--r--  1 andrew andrew  512 Jul 10 14:00 frameworks.txt
--rw-r--r--  1 andrew andrew  512 Jul 10 14:00 tools.txt
+drwxr-xr-x  2 codetronp codetronp 4096 Jul 10 14:00 .
+drwxr-xr-x 10 codetronp codetronp 4096 Jul 10 14:00 ..
+-rw-r--r--  1 codetronp codetronp  512 Jul 10 14:00 languages.txt
+-rw-r--r--  1 codetronp codetronp  512 Jul 10 14:00 frameworks.txt
+-rw-r--r--  1 codetronp codetronp  512 Jul 10 14:00 tools.txt
 
 [codetronp@github ~]$ cat dev/skills/languages.txt
 Lenguajes que domino:
 * Python
-* JavaScript/TypeScript
+* JavaScript
 * HTML
 * CSS
 * PHP
 
 [codetronp@github ~]$ cat dev/skills/frameworks.txt
 Frameworks & Librerías:
-* React / Next.js
-* Node.js / Express
-* Django / Flask
+* React
+* Node.js
+* Django
 * Spring Boot
 * Vue.js
 
